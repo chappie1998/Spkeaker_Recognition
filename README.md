@@ -1,6 +1,6 @@
 # Spkeaker_Recognition
-project on Speaker Recognitioin in python used sklern and librosa. in this project i used MFCC feature for the feature and SVM algorithm for classification.  
 
+Speaker recognition becomes the most popular task these days. Many methods and features use in speaker recognition. MFCC(Mel-frequency cepstral coefficients) is the most powerful feature. SVM(Support-vector machine) ware used with MFCC feature. First I tried for five speakers and after that, I did for 50 speakers. This method is working pretty well for 50 speakers.
 
 
 ### MFCC:- 
